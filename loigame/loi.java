@@ -3,6 +3,6 @@ package loigame;
 public class loi {
     public static void main(String[] args){
 
-        System.out.println("hello DDLoi"+2);
+        System.out.println("hello DDLoi"+10);
     }
 }
